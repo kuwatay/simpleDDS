@@ -9,7 +9,7 @@ Simple software DDS based on Arduino, OLED, and rotary encoder
   * 2 x Square wave (sync with sin wave)
   * 2 x Square wave (Up to 8MHz)
 
-## 3.Schematics
+## 3.Schematic
   <img src="SimpleDDS.png" alt="Simple DDS Schematic" width=450 />
   
 ## 4. BOM
@@ -29,3 +29,9 @@ Simple software DDS based on Arduino, OLED, and rotary encoder
       *  -> change phase (sin only)
       *  -> return to main menu
 
+## 6. Snapshots
+  <img src="board.jpg" alt="Prototype Board" width=450 />
+  <img src="example02.jpg" alt="Snapshot 1" width=350 />
+  <img src="example01.jpg" alt="Snapshot 2" width=350 />
+  <img src="example03.jpg" alt="Snapshot 3" width=350 />
+  <img src="example04.jpg" alt="Snapshot 4" width=350 />
