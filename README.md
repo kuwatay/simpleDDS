@@ -10,7 +10,7 @@ Simple software DDS based on Arduino, OLED, and rotary encoder
   * 2 x Square wave (Up to 8MHz)
 
 ## 3.Schematics
-  under constructions
+  <img src="SimpleDDS.png" alt="Simple DDS Schematic" width=450 />
   
 ## 4. BOM
   1. Arduino Uno (or compatible)
