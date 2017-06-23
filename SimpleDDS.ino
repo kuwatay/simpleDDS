@@ -216,7 +216,7 @@ void menu_select() {  // move cursor by encoder
       }
     } else if (menu_cursor == 2) { // phase change
       if (menu_edit == 0) {  // only SIN1
-        if (m == 1 & autoShift_a < 10) {
+        if (m == 1 && autoShift_a < 10) {
           autoShift_a++;
         } else if (m == -1 && autoShift_a > -10) {
           autoShift_a--;
